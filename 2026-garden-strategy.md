@@ -1,8 +1,12 @@
 # 2026 Garden Strategy - Durham, NC (Zone 7b/8a)
 
-**Location**: 3301 Courtland Drive, Durham, NC 27707
+**Location**: Durham, NC 27707
 **Growing Season**: Mid-April (last frost) to Mid-November (first frost) = 7 months
-**Key Challenge**: Hot, humid summers (90-95F+ in July/August) with 5-6 hours sun
+**Key Challenge**: **HUMID HEAT STRESS** - Heat index 100-110°F in July/August (even when air temp is only 90-95°F)
+  - Durham's 70-80% humidity prevents plant transpiration cooling
+  - Pollination fails in tomatoes/peppers when heat index >100-105°F
+  - Expect 3-4 week production gap during peak humid heat (mid-July to early-August)
+**Secondary Challenge**: 5-6 hours sun (partial shade)
 **Focus**: High-volume production for household + neighbors, Asian/Mexican/Italian cuisines
 
 ---
@@ -11,11 +15,17 @@
 
 **What's different from 2025:**
 1. **EARLY START**: Seeds indoors by late February, transplants by mid-April (not late May)
-2. **HEAT-TOLERANT VARIETIES**: Specific cultivars bred for Southern heat
+   - **WHY**: Fruit set before July's humid heat stress (heat index >100°F)
+2. **HUMID-HEAT-TOLERANT VARIETIES**: Southern-bred cultivars, NOT California "heat-tolerant" varieties
+   - **WHY**: California varieties bred for dry heat fail in Durham's 75-80% humidity
+   - Arkansas Traveler tomatoes, Costata Romanesco squash, Southern heirlooms
 3. **SUCCESSION PLANTING**: Continuous harvest of tomatoes, cucumbers, squash, beans, lettuce
+   - **WHY**: Backup when humid heat causes production gaps
 4. **SOIL AMENDMENT**: Add 2-3" compost to all beds BEFORE planting (February/March)
 5. **DISEASE PREVENTION**: Crop rotation, resistant varieties, proper spacing, early detection
+   - **WHY**: 70-80% humidity amplifies fungal diseases
 6. **VERTICAL GROWING**: Maximize fence space for peas, beans, cucumbers
+7. **ACCEPT JULY PRODUCTION GAP**: Expect minimal fruit set mid-July to early-August when heat index >100°F
 
 ---
 
@@ -56,15 +66,15 @@
 **TOMATOES** (Bed 2 + Bed 3 + containers)
 
 *Main Season Slicers (8 plants):*
-- 'Cherokee Purple' (2 plants) - heat-tolerant heirloom, excellent flavor
-- 'Mortgage Lifter' (2 plants) - heat-tolerant heirloom, large fruit
-- 'Arkansas Traveler' (2 plants) - VERY heat-tolerant heirloom, Southern classic
-- 'Costoluto Genovese' (2 plants) - Italian heirloom, good for sauce/slicing
+- 'Cherokee Purple' (2 plants) - Humid-heat-tolerant heirloom, excellent flavor
+- 'Mortgage Lifter' (2 plants) - Humid-heat-tolerant heirloom, large fruit
+- 'Arkansas Traveler' (2 plants) - **BRED FOR SOUTHERN HUMID HEAT**, sets fruit even at heat index 105°F+
+- 'Costoluto Genovese' (2 plants) - Italian heirloom, humid-heat tolerant, good for sauce/slicing
 
 *Cherry Tomatoes (8 plants):*
-- 'Sungold' (3 plants) - sweet, productive, heat-tolerant
-- 'Black Cherry' (2 plants) - complex flavor, heat-tolerant
-- 'Yellow Pear' (3 plants) - prolific, good for sharing
+- 'Sungold' (3 plants) - Sweet, productive, handles humid heat well
+- 'Black Cherry' (2 plants) - Complex flavor, humid-heat tolerant
+- 'Yellow Pear' (3 plants) - Prolific, good for sharing
 
 *Container Tomatoes (4 plants):*
 - 'Patio Princess' or 'Bush Early Girl' - compact determinates for containers
@@ -75,13 +85,13 @@
 
 **CUCUMBERS** (Vertical on fence + Bed 3)
 
-*Heat-Tolerant Slicers:*
-- 'Poinsett 76' (6 plants) - bred for Southern heat, disease-resistant
-- 'Marketmore 76' (4 plants) - heat/disease tolerant, reliable
+*Humid-Heat-Tolerant Slicers:*
+- 'Poinsett 76' (6 plants) - **Bred for hot, humid Southeast**, disease-resistant
+- 'Marketmore 76' (4 plants) - Humid heat/disease tolerant, reliable
 
 *Pickling/Asian:*
-- 'Korean Long' or 'Suyo Long' (4 plants) - Asian variety, heat-tolerant, excellent fresh
-- 'Calypso' (3 plants) - disease-resistant pickling type
+- 'Korean Long' or 'Suyo Long' (4 plants) - Asian variety, humid-heat tolerant, excellent fresh
+- 'Calypso' (3 plants) - Disease-resistant pickling type
 
 **TOTAL CUCUMBERS: 17 plants across 3 successions** (see schedule below)
 
@@ -89,11 +99,11 @@
 
 **SUMMER SQUASH** (Bed 1 + Bed 3)
 
-*Heat-Tolerant Varieties (CRITICAL for Durham):*
-- 'Costata Romanesco' (3 plants) - Italian heirloom, heat/disease tolerant, ribbed
-- 'Cocozelle' (3 plants) - Italian heirloom, prolific, heat-tolerant
-- 'Magda' (3 plants) - Lebanese type, very heat-tolerant, nutty flavor
-- 'Early Prolific Straightneck' (3 plants) - classic yellow, disease-resistant
+*Humid-Heat-Tolerant Varieties (CRITICAL for Durham):*
+- 'Costata Romanesco' (3 plants) - **Italian heirloom bred for Mediterranean humidity**, ribbed, disease tolerant
+- 'Cocozelle' (3 plants) - **Italian heirloom, prolific in humid heat**
+- 'Magda' (3 plants) - **Lebanese type, VERY humid-heat tolerant**, nutty flavor
+- 'Early Prolific Straightneck' (3 plants) - Classic yellow, disease-resistant
 
 **TOTAL SQUASH: 12 plants across 2 successions** (see schedule below)
 
@@ -688,24 +698,27 @@
 ### Why They Failed in 2025
 
 **Primary Issues**:
-1. **Late start** - transplanted May/June when heat already extreme
-2. **Disease pressure** - powdery mildew, downy mildew, squash vine borer
-3. **Heat stress** - varieties not bred for Southern heat
-4. **Possible poor soil** - needed more organic matter
+1. **Late start** - Transplanted May/June when heat index already >100°F
+2. **HUMID HEAT STRESS** - Varieties not bred for Southern humid heat (likely California-bred)
+   - Pollination failed during July heat index >100-105°F periods
+   - Plants couldn't transpire-cool in 75-80% humidity
+3. **Disease pressure** - Powdery mildew, downy mildew amplified by high humidity
+4. **Squash vine borer** - Common in Southeast
+5. **Possible poor soil** - Needed more organic matter
 
 ---
 
 ### 2026 Success Plan for Cucumbers
 
-**CHANGE 1: Heat-Tolerant Varieties**
-- **'Poinsett 76'** - specifically bred for hot, humid Southeast
-- **'Marketmore 76'** - proven heat tolerance, disease resistance
-- **'Korean Long' / 'Suyo Long'** - Asian varieties love heat
+**CHANGE 1: Humid-Heat-Tolerant Varieties**
+- **'Poinsett 76'** - **Specifically bred for hot, humid Southeast** (not California)
+- **'Marketmore 76'** - Proven humid heat tolerance, disease resistance
+- **'Korean Long' / 'Suyo Long'** - Asian varieties handle humid heat well
 
 **CHANGE 2: Early Start + Succession**
 - First planting transplanted **mid-April** (not late May)
-- Plants established before extreme heat hits
-- 3 successions = continuous harvest + backup if one fails
+- **WHY**: Plants establish and set fruit before July's heat index >100°F period
+- 3 successions = continuous harvest + backup if one fails during humid heat stress
 
 **CHANGE 3: Disease Prevention**
 - **Resistant varieties** ('Poinsett 76', 'Marketmore 76' have PM/DM resistance)
@@ -728,11 +741,11 @@
 
 ### 2026 Success Plan for Summer Squash
 
-**CHANGE 1: Italian Heat-Tolerant Varieties**
-- **'Costata Romanesco'** - Italian heirloom, thrives in heat
-- **'Cocozelle'** - Italian heirloom, very reliable in South
-- **'Magda'** - Lebanese, extremely heat-tolerant
-- Skip common varieties like 'Black Beauty' (disease-prone in humidity)
+**CHANGE 1: Italian/Mediterranean Humid-Heat-Tolerant Varieties**
+- **'Costata Romanesco'** - **Italian heirloom bred for Mediterranean humidity**, thrives in Durham heat
+- **'Cocozelle'** - **Italian heirloom, very reliable in humid South**
+- **'Magda'** - **Lebanese, extremely humid-heat tolerant**
+- **Skip common varieties like 'Black Beauty'** - bred for temperate climates, disease-prone in Durham humidity
 
 **CHANGE 2: Early Start + Succession**
 - First planting transplanted **mid-April**
@@ -988,20 +1001,22 @@ FALL (August-November):
 
 ---
 
-## Recommended Varieties (Heat-Tolerant for Durham)
+## Recommended Varieties (HUMID-Heat-Tolerant for Durham)
 
-### Tomatoes (Southern Heat-Tolerant)
+**CRITICAL**: All varieties below are bred for or proven in **HUMID heat** (not just high temperatures). Avoid California-bred "heat-tolerant" varieties - they're bred for dry heat and often fail in Durham's 75-80% humidity.
+
+### Tomatoes (Southern Humid-Heat-Tolerant)
 
 **Slicing Heirlooms**:
-- **'Arkansas Traveler'** - classic Southern heirloom, sets fruit in 90F+, crack-resistant
-- **'Cherokee Purple'** - heat-tolerant, complex flavor, purple/brown fruit
-- **'Mortgage Lifter'** - large (1-2 lbs), heat-tolerant, meaty
-- **'Costoluto Genovese'** - Italian, ribbed, heat-tolerant, sauce/slicing
+- **'Arkansas Traveler'** - **GOLD STANDARD for Durham** - bred in Arkansas for humid heat, sets fruit even at heat index 105°F+, crack-resistant
+- **'Cherokee Purple'** - Humid-heat-tolerant, complex flavor, purple/brown fruit
+- **'Mortgage Lifter'** - Large (1-2 lbs), humid-heat-tolerant, meaty
+- **'Costoluto Genovese'** - Italian (bred for Mediterranean humidity), ribbed, sauce/slicing
 
 **Cherry**:
-- **'Sungold'** - super sweet, orange, heat-tolerant, prolific (most popular cherry ever)
-- **'Black Cherry'** - dark purple, complex flavor, heat-tolerant
-- **'Yellow Pear'** - yellow teardrop shape, prolific, good for sharing
+- **'Sungold'** - Super sweet, orange, handles humid heat well, prolific
+- **'Black Cherry'** - Dark purple, complex flavor, humid-heat tolerant
+- **'Yellow Pear'** - Yellow teardrop shape, prolific, good for sharing
 
 **Container Determinate**:
 - **'Patio Princess'** - bred for containers, determinate, 18-24" tall
@@ -1009,29 +1024,29 @@ FALL (August-November):
 
 ---
 
-### Cucumbers (Heat & Disease Resistant)
+### Cucumbers (Humid-Heat & Disease Resistant)
 
 **Slicing**:
-- **'Poinsett 76'** - bred for Southeast, resists downy mildew/powdery mildew/anthracnose
-- **'Marketmore 76'** - reliable, heat-tolerant, resists scab/mosaic
+- **'Poinsett 76'** - **BRED FOR HOT, HUMID SOUTHEAST** (North Carolina State University), resists downy mildew/powdery mildew/anthracnose
+- **'Marketmore 76'** - Reliable, humid-heat-tolerant, resists scab/mosaic
 
 **Asian**:
-- **'Suyo Long'** - Chinese, 12-15", thin-skinned, burpless, heat-loving
-- **'Korean Long'** - similar to Suyo, 15-18", crisp, sweet
+- **'Suyo Long'** - Chinese, 12-15", thin-skinned, burpless, handles humid heat well
+- **'Korean Long'** - Similar to Suyo, 15-18", crisp, sweet, humid-heat tolerant
 
 **Pickling**:
 - **'Calypso'** - hybrid, disease pack (resists 9 diseases), good fresh too
 
 ---
 
-### Summer Squash (Heat-Tolerant, Borer-Resistant)
+### Summer Squash (Humid-Heat-Tolerant, Borer-Resistant)
 
-**Italian Heirlooms** (best for Durham heat):
-- **'Costata Romanesco'** - ribbed, nutty flavor, heat-tolerant, some PM resistance
-- **'Cocozelle'** - striped, prolific, heat-tolerant, classic Italian
+**Italian Heirlooms** (BEST for Durham humid heat):
+- **'Costata Romanesco'** - **Bred for Italian humid summers**, ribbed, nutty flavor, some PM resistance
+- **'Cocozelle'** - **Italian heirloom, proven in humid South**, striped, prolific, classic
 
 **Middle Eastern**:
-- **'Magda'** - Lebanese, pale green, VERY heat-tolerant, nutty flavor
+- **'Magda'** - **Lebanese, VERY humid-heat tolerant**, pale green, nutty flavor
 
 **Yellow**:
 - **'Early Prolific Straightneck'** - reliable, disease-resistant, productive

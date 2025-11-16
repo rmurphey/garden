@@ -13,9 +13,9 @@
 
 | Variety | Source | Approx Cost | Notes |
 |---------|--------|-------------|-------|
-| Arkansas Traveler | Southern Exposure Seed Exchange | $4-5 | Heat-tolerant heirloom slicing |
-| Cherokee Purple | Baker Creek Heirloom Seeds | $4-5 | Heat-tolerant heirloom slicing |
-| Mortgage Lifter | Baker Creek Heirloom Seeds | $4-5 | Large heirloom slicing |
+| Arkansas Traveler | Southern Exposure Seed Exchange | $4-5 | **GOLD STANDARD - bred for Southern humid heat** |
+| Cherokee Purple | Baker Creek Heirloom Seeds | $4-5 | Humid-heat-tolerant heirloom slicing |
+| Mortgage Lifter | Baker Creek Heirloom Seeds | $4-5 | Large humid-heat-tolerant heirloom |
 | Costoluto Genovese | Baker Creek Heirloom Seeds | $4-5 | Italian heirloom, sauce/slicing |
 | Sungold | Johnny's Selected Seeds | $6-7 | Best cherry tomato ever |
 | Black Cherry | Baker Creek Heirloom Seeds | $4-5 | Complex flavor cherry |
@@ -35,9 +35,9 @@
 
 | Variety | Source | Approx Cost | Notes |
 |---------|--------|-------------|-------|
-| Poinsett 76 | Southern Exposure | $4-5 | Disease-resistant, bred for Southeast |
-| Marketmore 76 | Johnny's | $4-5 | Reliable heat-tolerant slicer |
-| Suyo Long OR Korean Long | Baker Creek | $4-5 | Asian variety, burpless, heat-loving |
+| Poinsett 76 | Southern Exposure | $4-5 | **BRED FOR HOT, HUMID SOUTHEAST** (NC State), disease-resistant |
+| Marketmore 76 | Johnny's | $4-5 | Reliable humid-heat-tolerant slicer |
+| Suyo Long OR Korean Long | Baker Creek | $4-5 | Asian variety, handles humid heat well |
 | Calypso | Johnny's | $5-6 | Pickling/fresh, resists 9 diseases |
 
 ---
@@ -47,9 +47,9 @@
 
 | Variety | Source | Approx Cost | Notes |
 |---------|--------|-------------|-------|
-| Costata Romanesco | Baker Creek | $4-5 | Italian, ribbed, heat-tolerant |
-| Cocozelle | Southern Exposure | $4-5 | Italian heirloom, prolific |
-| Magda | Baker Creek | $4-5 | Lebanese, VERY heat-tolerant |
+| Costata Romanesco | Baker Creek | $4-5 | **Italian - bred for Mediterranean humidity**, ribbed |
+| Cocozelle | Southern Exposure | $4-5 | **Italian heirloom - proven in humid South** |
+| Magda | Baker Creek | $4-5 | **Lebanese, VERY humid-heat tolerant** |
 | Early Prolific Straightneck | Burpee | $4-5 | Yellow, disease-resistant |
 
 ---
@@ -80,8 +80,8 @@
 
 | Variety | Type | Quantity | Source | Approx Cost | Notes |
 |---------|------|----------|--------|-------------|-------|
-| Provider | Bush | 1/4 lb | Johnny's | $5-6 | Heat-tolerant green bean |
-| Contender | Bush | 1/4 lb | Southern Exposure | $5-6 | Very heat-tolerant |
+| Provider | Bush | 1/4 lb | Johnny's | $5-6 | Sets pods in humid heat |
+| Contender | Bush | 1/4 lb | Southern Exposure | $5-6 | Very humid-heat-tolerant |
 | Kentucky Wonder | Pole | 2 oz | Any source | $3-4 | Classic climbing bean |
 | Blue Lake Pole | Pole | 2 oz | Any source | $3-4 | Tender, productive |
 | Red Noodle OR Orient Extra Long | Asian Long | 1 pkt | Baker Creek | $4-5 | 18" beans, heat-loving |

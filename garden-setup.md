@@ -103,18 +103,30 @@
 - Squash (failure to produce)
 - Cucumbers (failure to produce)
 
-**Possible causes**:
-- Late start to the season
-- Disease issues (suspected)
-- Extreme heat during summer
-- May need better variety selection for heat tolerance
+**Root causes identified**:
+1. **HUMID HEAT STRESS** (primary cause)
+   - Planted May/June when heat index already >100°F
+   - Pollination failed during July's heat index >100-105°F period
+   - Durham's 70-80% humidity prevents plant transpiration cooling
+   - Likely used California-bred "heat-tolerant" varieties (bred for dry heat, fail in humidity)
+
+2. **Late start to season**
+   - Should transplant mid-April, not late May
+   - Plants need to establish and set fruit before July's humid heat stress
+
+3. **Disease pressure amplified by humidity**
+   - Powdery mildew, downy mildew thrive in 75-80% humidity
+   - Squash vine borer (common in Southeast)
 
 ### Lessons Learned
+- **Durham's #1 challenge is HUMID HEAT, not just high temperatures**
+  - Heat index (temp + humidity) matters more than air temp
+  - Must use Southern humid-heat-tolerant varieties, NOT California "heat-tolerant" varieties
 - Well-aerated containers are important for root crops like sweet potatoes
 - Sun exposure (5-6 hours) is adequate for peppers, tomatillos, and herbs
-- Need to start earlier in the season
-- Heat-tolerant varieties may be necessary for Durham summers
-- Disease management needs attention
+- Must start 6+ weeks earlier (mid-April transplants, not late May)
+- Expect 3-4 week production gap mid-July to early-August when heat index >100°F
+- Disease management critical in humid climate
 
 ## Food Preferences & Goals
 
@@ -154,7 +166,12 @@
 
 ## Notes & Observations
 - Current sun exposure (5-6 hours) is workable but not ideal - need to select varieties accordingly
-- Extreme summer heat in Durham is a significant factor - heat-tolerant varieties essential
+- **HUMID HEAT STRESS is Durham's critical challenge**:
+  - Heat index regularly hits 100-110°F even when air temp is only 90-95°F
+  - Durham's 70-80% humidity prevents plant cooling via transpiration
+  - Must use varieties bred for Southern humid heat (Arkansas, Louisiana, Southeast)
+  - Avoid California-bred varieties - they fail in humidity despite "heat-tolerant" label
+  - Expect pollination failure mid-July to early-August during peak heat index >100°F
 - Chain link fence offers opportunity for vertical growing
 - Large herb collection suggests strong success with herbs in current conditions
 - Focus on volume production for sharing means succession planting and high-yield varieties important

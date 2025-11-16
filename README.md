@@ -128,10 +128,12 @@ Three specialized Claude Code agents in `.claude/agents/`:
 - Last spring frost: April 10 (was April 15) - 5 days earlier
 - First fall frost: November 12 (was November 10) - 2 days later
 - Growing season: 217 days (was 209 days) - 8 days longer
-- Summer heat: More 95°F+ days, longer heat waves
+- **Humid heat stress**: Heat index >100°F for ~15 days in July (20-25 days in hot years)
+  - Durham's 70-80% humidity prevents plant transpiration cooling
+  - Pollination fails at heat index 100-105°F even when air temp is only 90-95°F
 - Precipitation: Similar totals but more intense events, longer dry spells
 
-**Implication**: Climate change is extending the growing season but increasing heat stress and irrigation demands.
+**Implication**: Climate change is extending the growing season but **humid heat stress** is Durham's critical challenge - must use Southern humid-heat-tolerant varieties, not California "heat-tolerant" varieties.
 
 ## 2025 Lessons Learned
 
@@ -143,15 +145,19 @@ Three specialized Claude Code agents in `.claude/agents/`:
 
 **Challenges**:
 - Late start (late May vs mid-April) caused issues
-- Cucurbits (melons, squash, cucumbers) failed - heat stress, disease, late planting
-- Needed: heat-tolerant varieties, earlier start, succession planting
+- Cucurbits (melons, squash, cucumbers) failed - **humid heat stress**, disease, late planting
+- **Root cause**: Planted when heat index already >100°F; likely used California-bred varieties that fail in Durham's humidity
 
 **2026 Improvements**:
-- Start 6 weeks earlier (mid-April transplants)
-- Heat-tolerant varieties (Arkansas Traveler tomatoes, Costata Romanesco squash, etc.)
-- Succession plantings for backup
+- Start 6 weeks earlier (mid-April transplants) for fruit set before July's humid heat
+- **Humid-heat-tolerant varieties** bred for Southern humidity:
+  - Arkansas Traveler tomatoes (bred for Arkansas humid heat)
+  - Poinsett 76 cucumbers (bred for hot, humid Southeast)
+  - Costata Romanesco squash (Italian, bred for Mediterranean humidity)
+- Succession plantings for backup during humid heat stress periods
 - Soaker hose irrigation system
-- Proactive disease prevention
+- Proactive disease prevention (humidity amplifies fungal diseases)
+- Accept 3-4 week production gap mid-July to early-August (heat index >100°F)
 
 ## Using This Repository
 
