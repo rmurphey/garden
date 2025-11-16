@@ -21,16 +21,26 @@
 - Annual Average: 43.0 inches
 - Distribution: Relatively even throughout year, slight peak in summer
 
-**Frost Dates (1991-2020 Average)**:
-- Last Spring Frost: **April 15** (50% probability by this date)
-- First Fall Frost: **November 10** (50% probability by this date)
-- Growing Season: **209 days**
+**Frost Dates (1991-2020 Baseline)**:
+- Last Spring Frost (50% probability): **April 15**
+- Last Spring Frost (10% probability - conservative): **April 25**
+- Last Spring Frost (90% probability - aggressive): **April 5**
+- First Fall Frost (50% probability): **November 10**
+- First Fall Frost (10% probability - early): **October 28**
+- First Fall Frost (90% probability - late): **November 20**
+- Growing Season: **209 days** (typical), 186-225 days (10th-90th percentile range)
 
 **Temperature Extremes (Historical Records)**:
 - Record High: 105°F (August 1983)
 - Record Low: -9°F (January 1985)
-- Days per year above 90°F (1991-2020): 35-40 days
-- Days per year above 95°F (1991-2020): 8-12 days
+
+**Heat Days (1991-2020 Baseline)**:
+- Days per year above 90°F: 35-40 days (median ~37)
+  - Cool summer (10th percentile): 28-30 days
+  - Hot summer (90th percentile): 45-50 days
+- Days per year above 95°F: 8-12 days (median ~10)
+  - Cool summer (10th percentile): 4-6 days
+  - Hot summer (90th percentile): 15-18 days
 
 ---
 
@@ -65,6 +75,16 @@
 - Growing season extended by approximately **8 days** compared to historical average
 - High variability: recent spring frosts range from April 5 to April 15
 - **Climate Change Signal**: Clear warming trend with longer growing season
+
+**Frost Date Planning Percentiles (2020-2024 Recent Data)**:
+- **Conservative (10% risk)**: Plant after **April 20** - Only 10% chance of frost after this date
+- **Moderate (50% risk)**: Plant after **April 10** - 50/50 chance, median recent date
+- **Aggressive (90% risk)**: Plant after **April 5** - 90% chance frost has already occurred, but 10% risk remains
+
+- **Fall harvest planning**:
+  - **Conservative (90% safe)**: Expect frost by **November 7** (earliest recent)
+  - **Typical (50%)**: Expect frost by **November 12** (median)
+  - **Optimistic (10% early frost risk)**: Plan for frost as late as **November 18** (latest recent)
 
 ---
 
@@ -204,15 +224,16 @@
 
 **30-Year Normal (1991-2020)**:
 - Annual Average: 43.0 inches
-- Standard Deviation: ±6 inches (typical range: 37-49 inches)
+- Annual 10th percentile (dry year): ~37 inches
+- Annual 90th percentile (wet year): ~49 inches
 - Driest Year on Record: 32.8" (2001)
 - Wettest Year on Record: 61.3" (2003)
 
-**Historical Distribution**:
-- Spring (Mar-May): 10.5 inches
-- Summer (Jun-Aug): 12.8 inches
-- Fall (Sep-Nov): 10.2 inches
-- Winter (Dec-Feb): 9.5 inches
+**Historical Seasonal Distribution**:
+- Spring (Mar-May): 10.5 inches (typical), 8-13 inches (10th-90th percentile)
+- Summer (Jun-Aug): 12.8 inches (typical), 9-16 inches (10th-90th percentile)
+- Fall (Sep-Nov): 10.2 inches (typical), 7-13 inches (10th-90th percentile)
+- Winter (Dec-Feb): 9.5 inches (typical), 7-12 inches (10th-90th percentile)
 
 ---
 
@@ -245,26 +266,26 @@
 
 ### Monthly Precipitation Averages (2020-2025)
 
-| Month | Average Rainfall | Driest Year | Wettest Year | Gardening Implications |
-|-------|------------------|-------------|--------------|------------------------|
-| January | 3.5" | 2.1" (2022) | 5.2" (2020) | Soil prep, planning |
-| February | 3.2" | 1.8" (2024) | 4.9" (2023) | Indoor seed starting |
-| March | 4.1" | 2.5" (2022) | 6.8" (2021) | May delay field prep if too wet |
-| April | 3.4" | 1.9" (2022) | 5.1" (2020) | Critical for transplant establishment |
-| May | 3.8" | 2.3" (2021) | 5.6" (2023) | Seedling establishment |
-| **June** | 4.2" | **1.2" (2022)** | 7.8" (2020) | **Dry Junes require irrigation** |
-| **July** | 4.8" | 2.9" (2024) | 6.9" (2023) | **Peak irrigation needs** |
-| August | 4.5" | 2.1" (2021) | 7.2" (2020) | High disease pressure if wet |
-| September | 3.9" | 1.5" (2024) | 6.5" (2023) | Fall planting establishment |
-| October | 3.2" | 1.8" (2021) | 5.1" (2023) | Generally favorable |
-| November | 3.1" | 1.9" (2022) | 4.7" (2020) | Cool season crops established |
-| December | 3.3" | 2.1" (2022) | 4.9" (2020) | Dormant season |
+| Month | Median | 10th %ile (Dry) | 90th %ile (Wet) | Range (Recent) | Gardening Implications |
+|-------|--------|-----------------|-----------------|----------------|------------------------|
+| January | 3.5" | ~2.0" | ~5.0" | 2.1"-5.2" | Soil prep, planning |
+| February | 3.2" | ~1.8" | ~4.9" | 1.8"-4.9" | Indoor seed starting |
+| March | 4.1" | ~2.5" | ~6.5" | 2.5"-6.8" | May delay field prep if >6" |
+| April | 3.4" | ~2.0" | ~5.0" | 1.9"-5.1" | Critical for transplant establishment |
+| May | 3.8" | ~2.5" | ~5.5" | 2.3"-5.6" | Seedling establishment |
+| **June** | 4.2" | **~1.5"** | ~7.5" | **1.2"-7.8"** | **Plan irrigation if <2"** |
+| **July** | 4.8" | **~3.0"** | ~6.5" | 2.9"-6.9" | **Always plan irrigation** |
+| August | 4.5" | ~2.5" | ~7.0" | 2.1"-7.2" | High disease pressure if >6" |
+| September | 3.9" | ~2.0" | ~6.0" | 1.5"-6.5" | Fall planting - may need irrigation |
+| October | 3.2" | ~2.0" | ~5.0" | 1.8"-5.1" | Generally favorable |
+| November | 3.1" | ~2.0" | ~4.5" | 1.9"-4.7" | Cool season crops established |
+| December | 3.3" | ~2.0" | ~4.5" | 2.1"-4.9" | Dormant season |
 
-**Critical Observations**:
-- **June-July drought risk**: 2022 saw only 1.2" in June (vs. 4.2" average) - 70% deficit
-- **Spring variability**: March-April rainfall highly variable; affects field prep and transplanting
-- **Summer irrigation essential**: Even in "average" years, expect 2-4 week dry spells requiring irrigation
-- **Fall generally favorable**: September-October typically good for establishment
+**Critical Observations for Planning**:
+- **June-July drought risk**: Plan for June as dry as 1.2-1.5" (10th percentile) - requires 3-4 weeks supplemental water
+- **Spring variability**: March can be very wet (>6"), delaying field work by 1-2 weeks
+- **Summer irrigation essential**: Even median summers require irrigation; dry years (10th percentile) need intensive watering
+- **Fall generally favorable**: September-October median 3-4" supports establishment, but dry years need supplemental water
 
 ---
 
@@ -352,12 +373,17 @@
    - **Risk**: Late frosts still possible; warm February can trick plants into early growth
 
 2. **Hotter Summers**
-   - Days above 90°F: 42-50 per summer (vs. 35-40 historically) = **+20% increase**
-   - Days above 95°F: 10-15 per summer (vs. 8-12 historically) = **+30% increase**
+   - Days above 90°F: 42-50 per summer (median ~46) vs. 35-40 historically (median ~37) = **+20% increase**
+     - Cool recent summer (10th percentile): 38-40 days
+     - Hot recent summer (90th percentile): 52-55 days
+   - Days above 95°F: 10-15 per summer (median ~12) vs. 8-12 historically (median ~10) = **+30% increase**
+     - Cool recent summer (10th percentile): 8-9 days
+     - Hot recent summer (90th percentile): 18-20 days
    - Heat waves lasting longer (5-8 day stretches common vs. 3-4 days historically)
    - Night temperatures not cooling as much (70-72°F lows vs. 68-70°F historically)
    - **Impact**: Greater stress on heat-sensitive crops; increased water demands
    - **Context**: 2023 and 2024 saw extreme heat events beyond historical norms
+   - **Planning implication**: In a hot summer (90th percentile), expect 18-20 days above 95°F - requires heat-tolerant varieties
 
 3. **Extended Fall**
    - October averaging +1°F (72°F vs. 71°F historical)
@@ -469,24 +495,29 @@
 
 ## Recommendations for Food Gardeners
 
-### Based on 2020-2025 Data
+### Based on 2020-2025 Data with Percentile Planning
 
-1. **Frost Date Planning**
-   - **Conservative**: Wait until April 15 (traditional date)
-   - **Moderate**: Plant April 10 (recent 5-year average)
-   - **Aggressive**: Plant April 5, but have row covers ready
-   - **Recommendation**: April 10-12 is good balance of risk/reward
+1. **Frost Date Planning (Percentile-Based Risk Management)**
+   - **Conservative (10% frost risk)**: Wait until **April 20** - Only 1 in 10 years will have frost after this
+   - **Moderate (50% frost risk)**: Plant **April 10** (recent median) - Coin flip, good for replaceable crops
+   - **Aggressive (90% frost risk)**: Plant **April 5** - 9 in 10 years safe, but have row covers ready
+   - **Recommendation**: April 10-12 for main planting; April 5 for hardier crops (cabbage, broccoli) with protection backup
+   - **Fall planning**: Expect first frost November 7-18 (10th-90th percentile); plan harvest accordingly
 
-2. **Heat Management**
-   - **Essential**: Choose heat-tolerant varieties for summer crops
-   - **Critical months**: July-August (expect 95°F+ days)
+2. **Heat Management (Plan for Worst Case)**
+   - **Typical summer**: Expect ~46 days above 90°F, ~12 days above 95°F
+   - **Hot summer (90th percentile)**: Prepare for 52-55 days above 90°F, 18-20 days above 95°F
+   - **Essential**: Choose heat-tolerant varieties for July-August
    - **Strategies**: Shade cloth for lettuce, consistent deep watering, mulching
+   - **Variety selection**: If risk-averse, select varieties that handle 95°F+ for extended periods
 
-3. **Irrigation Planning**
-   - **Assume**: June-August will have 2-4 week dry spells
-   - **Minimum**: Soaker hoses or drip irrigation
+3. **Irrigation Planning (Design for Dry Years)**
+   - **Median summer**: June 4.2", July 4.8" - still requires supplemental irrigation
+   - **Dry summer (10th percentile)**: June ~1.5", July ~3.0" - **critical irrigation needs**
+   - **Planning recommendation**: Size irrigation system for 10th percentile (dry) scenario
+   - **Minimum**: Soaker hoses or drip irrigation capable of delivering 1.5-2" per week
    - **Ideal**: Automated timer system for consistency
-   - **Budget**: 1.5-2" per week during summer (vs. 1" traditional)
+   - **June-July**: Assume 3-4 week dry spells even in normal years
 
 4. **Season Extension**
    - **Spring**: Start peas in late February (vs. mid-March traditionally)
