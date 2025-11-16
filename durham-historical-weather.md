@@ -147,27 +147,41 @@
 #### June
 - **Average High**: 87°F
 - **Average Low**: 67°F
-- **Days Above 90°F**: 12-18 days
-- **Days Above 95°F**: 3-6 days
-- **Heat Index Days (>100°F)**: 5-8 days
-- **Gardening Notes**: First heat stress on cool-season crops; warm-season crops thriving
+- **Average Humidity**: 70-75%
+- **Days Above 90°F**: 12-18 days (median ~15)
+- **Days Above 95°F**: 3-6 days (median ~4)
+- **Heat Index Days (>100°F)**: 5-8 days (median ~6)
+  - Cool/dry June (10th percentile): 2-3 days
+  - Hot/humid June (90th percentile): 10-12 days
+- **Heat Index Days (>105°F)**: 1-3 days
+- **Gardening Notes**: First heat stress on cool-season crops; warm-season crops thriving; humid heat begins affecting pollination
 
 #### July
 - **Average High**: 90°F
 - **Average Low**: 71°F
-- **Days Above 90°F**: 20-26 days
-- **Days Above 95°F**: 10-15 days
-- **Heat Index Days (>100°F)**: 12-18 days
+- **Average Humidity**: 75-80%
+- **Days Above 90°F**: 20-26 days (median ~23)
+- **Days Above 95°F**: 10-15 days (median ~12)
+- **Heat Index Days (>100°F)**: 12-18 days (median ~15) - **CRITICAL FOR PLANT STRESS**
+  - Cool/dry July (10th percentile): 8-10 days
+  - Hot/humid July (90th percentile): 20-25 days
+- **Heat Index Days (>105°F)**: 5-8 days (median ~6)
+  - Hot/humid July (90th percentile): 10-12 days
+- **Heat Index Days (>110°F)**: 1-3 days (extreme stress events)
 - **Record Extremes**: 2023 had 22 consecutive days above 90°F, 2024 had 8 consecutive days above 95°F
-- **Gardening Notes**: Peak heat stress; require heat-tolerant varieties, consistent watering
+- **Gardening Notes**: Peak humid heat stress; heat index >100°F causes pollination failure in tomatoes/peppers; require heat-tolerant varieties, consistent watering, possible shade cloth
 
 #### August
 - **Average High**: 88°F
 - **Average Low**: 70°F
-- **Days Above 90°F**: 18-24 days
-- **Days Above 95°F**: 8-12 days
-- **Heat Index Days (>100°F)**: 10-14 days
-- **Gardening Notes**: Still very hot; late-planted crops may struggle; good time to start fall transplants indoors
+- **Average Humidity**: 75-80%
+- **Days Above 90°F**: 18-24 days (median ~21)
+- **Days Above 95°F**: 8-12 days (median ~10)
+- **Heat Index Days (>100°F)**: 10-14 days (median ~12)
+  - Cool/dry August (10th percentile): 6-8 days
+  - Hot/humid August (90th percentile): 16-18 days
+- **Heat Index Days (>105°F)**: 4-6 days
+- **Gardening Notes**: Still very hot with high humidity; late-planted crops may struggle; humid heat stress continues; good time to start fall transplants indoors
 
 ---
 
@@ -286,6 +300,98 @@
 - **Spring variability**: March can be very wet (>6"), delaying field work by 1-2 weeks
 - **Summer irrigation essential**: Even median summers require irrigation; dry years (10th percentile) need intensive watering
 - **Fall generally favorable**: September-October median 3-4" supports establishment, but dry years need supplemental water
+
+---
+
+## Humid Heat Stress: Durham's Unique Challenge
+
+### Why Heat Index Matters More Than Air Temperature
+
+Durham's summer heat is compounded by **high humidity (70-80%)**, which fundamentally changes how plants experience heat stress.
+
+**How Plants Cool Themselves:**
+- Plants transpire (evaporate water through leaves) to cool down, like sweating
+- In dry climates, this works efficiently even at high temperatures
+- **In humid climates, evaporation slows dramatically**
+- Result: Plants overheat at lower air temperatures when humidity is high
+
+**Heat Index (Apparent Temperature):**
+- Combines air temperature + relative humidity
+- **Better predictor of plant stress than air temperature alone**
+- Heat index 100°F with 75% humidity feels (and stresses plants) like 100°F
+- Durham regularly hits heat index 100-110°F even when air temp is 90-95°F
+
+### Critical Heat Index Thresholds for Food Crops
+
+**Pollination Failure:**
+- **Tomatoes**: Pollen sterile above heat index ~100-105°F
+  - Air temp 90°F + 75% humidity = heat index 105°F = no fruit set
+- **Peppers**: Blossom drop above heat index ~100-102°F
+- **Beans**: Flower abortion above heat index ~98-100°F
+- **Squash/Cucumbers**: Reduced pollination above heat index ~100°F
+
+**Photosynthesis Shutdown:**
+- Most vegetables reduce photosynthesis above heat index 95-100°F
+- Complete shutdown possible above heat index 110°F
+- Plants survive but don't grow
+
+**Leaf Damage:**
+- Lettuce/greens: Bitter, bolting above heat index 85-90°F
+- Brassicas: Heat damage above heat index 90-95°F
+
+### Durham Summer Heat Index Analysis (2020-2025)
+
+**Typical Summer (Median):**
+- **June**: ~6 days heat index >100°F, 1-3 days >105°F
+- **July**: ~15 days heat index >100°F, 6 days >105°F, 1-3 days >110°F
+- **August**: ~12 days heat index >100°F, 4-6 days >105°F
+
+**Hot/Humid Summer (90th Percentile):**
+- **June**: 10-12 days heat index >100°F
+- **July**: 20-25 days heat index >100°F, 10-12 days >105°F
+- **August**: 16-18 days heat index >100°F
+
+**Planning Implications:**
+- **Mid-July to early August**: Peak humid heat stress period
+- In a hot summer, expect **3-4 consecutive weeks** with heat index >100°F
+- This is when pollination fails, fruit set stops, and plants struggle to survive
+
+### Heat Index vs. Dry Heat Comparison
+
+| Condition | Air Temp | Humidity | Heat Index | Plant Response |
+|-----------|----------|----------|------------|----------------|
+| Dry heat (Southwest) | 105°F | 20% | ~105°F | Stressed but can cool via transpiration |
+| **Durham humid heat** | **95°F** | **75%** | **~110°F** | **Severe stress, can't cool effectively** |
+| **Durham extreme** | **98°F** | **80%** | **~120°F** | **Critical stress, survival mode** |
+
+**Why this matters:**
+- A 95°F day in Phoenix (dry) is manageable for heat-tolerant tomatoes
+- A 95°F day in Durham (humid) causes pollination failure and fruit set stops
+- **Durham gardeners need varieties bred for HUMID heat, not just high temperatures**
+
+### Adaptation Strategies for Humid Heat
+
+**Variety Selection (Most Critical):**
+- Choose varieties specifically bred for **Southern humid heat**
+- "Heat tolerant" isn't enough - need "humid heat tolerant"
+- Southern heirlooms often better than modern hybrids bred in California
+- Examples: Arkansas Traveler tomato (bred for Arkansas humidity), Phoenix peppers
+
+**Infrastructure:**
+- Shade cloth (30-50%) during heat index >105°F days
+- Overhead misting to create evaporative cooling (ironic - adds humidity but cools air)
+- Deep mulch to keep root zone cooler
+- Drip irrigation to maintain consistent soil moisture
+
+**Timing:**
+- Plant early (mid-April) for fruit set before peak humid heat (mid-July)
+- Or plant late (early August) for fall production after humid heat passes
+- Avoid expecting production during July-August humid heat peak
+
+**Acceptance:**
+- Expect 3-4 weeks of minimal fruit production during July heat index >100°F
+- Focus on heat-loving crops: okra, eggplant, sweet potatoes, southern peas
+- Save tomatoes/peppers for spring (April-June) and fall (September-October)
 
 ---
 
@@ -473,9 +579,11 @@
 
 ### Challenges from Climate Trends
 
-1. **Summer Heat Stress**
-   - Traditional tomato varieties struggling in July-August heat
-   - Need for heat-tolerant varieties critical
+1. **Humid Heat Stress (Durham-Specific)**
+   - Heat index >100°F for 15+ days in July (20-25 days in hot years)
+   - Traditional tomato varieties struggling - **humid heat, not just high temps**
+   - Pollination failure in tomatoes/peppers during heat index >100-105°F
+   - Need varieties bred for **Southern humid heat**, not just "heat tolerant"
    - Increased water requirements (1.5-2" per week vs. 1" traditionally)
 
 2. **Disease Pressure**
@@ -504,12 +612,27 @@
    - **Recommendation**: April 10-12 for main planting; April 5 for hardier crops (cabbage, broccoli) with protection backup
    - **Fall planning**: Expect first frost November 7-18 (10th-90th percentile); plan harvest accordingly
 
-2. **Heat Management (Plan for Worst Case)**
-   - **Typical summer**: Expect ~46 days above 90°F, ~12 days above 95°F
-   - **Hot summer (90th percentile)**: Prepare for 52-55 days above 90°F, 18-20 days above 95°F
-   - **Essential**: Choose heat-tolerant varieties for July-August
-   - **Strategies**: Shade cloth for lettuce, consistent deep watering, mulching
-   - **Variety selection**: If risk-averse, select varieties that handle 95°F+ for extended periods
+2. **Humid Heat Management (Durham's Critical Challenge)**
+   - **Air temperature alone is misleading** - use heat index for planning
+   - **Typical summer**: Expect ~15 days heat index >100°F in July, 6 days >105°F
+   - **Hot/humid summer (90th percentile)**: Prepare for 20-25 days heat index >100°F, 10-12 days >105°F
+   - **Critical period**: Mid-July to early August - expect 3-4 weeks heat index >100°F
+
+   **Variety Selection (MOST IMPORTANT):**
+   - Must choose varieties bred for **humid heat**, not just high temperatures
+   - Southern heirlooms often better than California-bred hybrids
+   - Examples: Arkansas Traveler tomato, Phoenix peppers, Southern peas
+   - Avoid varieties bred in dry Western climates
+
+   **Infrastructure:**
+   - Shade cloth (30-50%) for heat index >105°F days
+   - Deep mulch (3-4") to cool root zones
+   - Consistent irrigation critical (plants can't transpire-cool in humidity)
+
+   **Timing Strategy:**
+   - Plant early (mid-April) for fruit set before July heat
+   - Accept minimal production during peak humid heat (mid-July to early-August)
+   - Plan fall succession (August planting) for September-October production
 
 3. **Irrigation Planning (Design for Dry Years)**
    - **Median summer**: June 4.2", July 4.8" - still requires supplemental irrigation
