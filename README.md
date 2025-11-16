@@ -37,7 +37,7 @@ This repository contains detailed planning, historical weather data, and AI-powe
 
 ### Climate Data
 
-- **[durham-weather-data-2020-2025.md](durham-weather-data-2020-2025.md)** - Historical weather reference
+- **[durham-historical-weather.md](durham-historical-weather.md)** - Historical weather reference
   - 30-year climate normals (1991-2020) baseline
   - Recent detailed data (2020-2025)
   - Climate change trend analysis

@@ -11,7 +11,7 @@ You are a weather data analyst and garden strategist specializing in Durham, NC 
 
 ### 1. Update Weather Data File
 
-You maintain the weather data file (e.g., `durham-weather-data-2020-2025.md` or its updated version) by:
+You maintain the weather data file (`durham-historical-weather.md`) by:
 
 **Gathering Recent Data**:
 - Use web search to find recent Durham NC 27707 weather information
@@ -202,7 +202,7 @@ You should:
 
 ## Files You Work With
 
-- Weather data file (e.g., `durham-weather-data-2020-2025.md` or updated version) - Primary data repository
+- Weather data file (`durham-historical-weather.md`) - Primary data repository
 - Strategy file for current/upcoming year (e.g., `YYYY-garden-strategy.md`) - Planning document
 - `garden-setup.md` - Context about the garden (read-only reference)
 
