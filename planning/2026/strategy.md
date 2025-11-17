@@ -245,12 +245,18 @@
 - DIRECT SOW: Basil succession 6
 - Monitor tomatoes for first fruit (early varieties)
 - Remove spring peas (too hot), prepare fence for cucumbers/beans
+- **EXPERIMENT PREP**: Purchase shade cloth materials ($60-75)
 
 **June 8-14**:
 - TRANSPLANT: Cucumber succession 3 (3 plants) - final cucumber planting
 - DIRECT SOW: Cilantro succession 3 (may bolt quickly in heat)
+- **EXPERIMENT PREP**: Assemble PVC frame, label experiment plants
 
 **June 15-30**:
+- **INSTALL SHADE CLOTH EXPERIMENT** (when heat index first reaches 100°F):
+  - Install 30% shade cloth over 3 Cherokee Purple tomatoes + 4 peppers (Bed 2 east, Bed 1 east)
+  - Control group: 3 Cherokee Purple (Bed 2 west) + 4 peppers (Bed 1 west) in full sun
+  - Begin weekly observations (blossom drop, fruit set, heat stress)
 - HARVEST: Bush beans succession 1 should be ready
 - HARVEST: Cucumbers succession 1 starting
 - HARVEST: Summer squash succession 1 starting
@@ -266,6 +272,9 @@
 - WATER DEEPLY: Critical during 90-95F+ heat
 - MONITOR: Disease pressure on tomatoes/cucurbits (spray neem if needed)
 - HARVEST: Pick cucumbers/squash daily to keep producing
+- **SHADE CLOTH EXPERIMENT**: Weekly observations (Sunday 8am, Wednesday 6pm heat check)
+  - Track blossom drop rate, fruit set, heat stress signs
+  - Record harvest separately for shaded vs control plants
 - Start planning fall garden
 
 **Mid-July**:
@@ -283,8 +292,11 @@
 **Mid-August**:
 - CONTINUED HARVEST: Tomatoes, peppers, beans, herbs
 - Some summer crops may slow down in extreme heat
+- **SHADE CLOTH EXPERIMENT**: Continue weekly observations through Aug 15
 
-**Late August (Aug 24-31)**:
+**Aug 16-31**:
+- **SHADE CLOTH EXPERIMENT**: Final observations, note recovery period
+- Remove shade cloth if heat stress period ends (optional - can leave for future use)
 - DIRECT SOW: Fall peas on fence (10 weeks before first frost)
 - TRANSPLANT: Fall greens to beds/containers
 
@@ -293,6 +305,7 @@
 ### SEPTEMBER 2026
 
 **Early September**:
+- **SHADE CLOTH EXPERIMENT**: Complete analysis, write up results
 - DIRECT SOW: Cilantro succession 4 (fall planting - better than summer)
 - DIRECT SOW: Lettuce/mesclun (succession every 2 weeks through October)
 - TRANSPLANT: More fall kale, Asian greens
@@ -1690,20 +1703,27 @@ NEXT WEEK:
 | **Pest/Disease** | Neem oil (16 oz) | $15 |
 | | Insecticidal soap | $10 |
 | **Mulch** | Straw bales (4-5) | $25-30 |
+| **Shade Cloth Experiment** | 30% shade cloth (6x20 ft) | $25-35 |
+| | PVC frame materials | $20 |
+| | Zip ties/clips | $8-12 |
+| | Plant labels for experiment | $5-8 |
 | **Miscellaneous** | Plant labels, ties, etc. | $20 |
 | | | |
-| **TOTAL ESTIMATE** | | **$493-581** |
+| **TOTAL ESTIMATE** | | **$551-639** |
 
 **Baseline Budget**: $500/year
-**Projected Spend**: $493-581
-**Status**: ON BUDGET (or slightly over if adding timer)
+**Projected Spend**: $551-639 (includes shade cloth experiment)
+**Status**: SLIGHTLY OVER BUDGET by $51-139
 
-**Cost-Saving Options**:
+**Cost-Saving Options to Stay on Budget**:
 - Skip hose timer (save $30-40) - water manually
-- Buy fewer seed varieties (save $50) - focus on top performers
-- Use free mulch (grass clippings, shredded leaves) instead of straw (save $25)
+- Use budget shade cloth option (save $10-15) - find 30% shade cloth for $20-25
+- Buy fewer seed varieties (save $30-50) - focus on top performers only
+- Use free mulch (grass clippings, shredded leaves) instead of straw (save $25-30)
+- **With these adjustments**: $456-529 total (back under $500-550)
 
 **Worth Spending Extra** (if budget allows):
+- **Shade cloth experiment** ($58-75) - directly tests solution to #1 climate challenge, reusable for years
 - Hose timer ($30-40) - saves 2-3 hours/week of manual watering = worth it
 - Premium compost ($115 vs $90 cheaper option) - better soil = better yields = worth it
 

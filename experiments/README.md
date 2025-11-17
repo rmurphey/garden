@@ -121,6 +121,17 @@ Testing whether strawberries can successfully produce in Durham's humid heat cli
 
 **Key Question:** Can day-neutral strawberries provide viable yields by fruiting spring + fall while surviving July-August humid heat stress?
 
+### [Shade Cloth for Humid Heat Stress Mitigation](2026-shade-cloth-heat-mitigation.md)
+**Status:** Planning
+**Started:** June 2026 (planned)
+**Duration:** 8 weeks (mid-June through mid-August peak heat period)
+
+Testing whether 30-40% shade cloth reduces blossom drop and increases fruit set in tomatoes and peppers during Durham's peak humid heat stress period (heat index >100°F). Comparing 3 Cherokee Purple tomato plants and 4 pepper plants (Purple Bell, Jalapeño) under shade cloth vs identical full-sun controls.
+
+**Key Question:** Does shade cloth effectively mitigate Durham's humid heat stress to maintain pollination and fruit production during July-August heat index >100°F periods?
+
+**Budget:** $40-75 for materials (shade cloth, PVC frame, clips)
+
 ## Completed Experiments
 
 *None yet*
