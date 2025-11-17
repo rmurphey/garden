@@ -109,7 +109,17 @@ Ideas for experiments to try:
 
 ## Current Experiments
 
-*None yet - start your first experiment!*
+### [Strawberry Viability in Durham Humid Heat](strawberry-viability-2026.md)
+**Status:** Planning
+**Started:** March 2026 (planned)
+**Duration:** 15 months (through June 2027)
+
+Testing whether strawberries can successfully produce in Durham's humid heat climate by comparing:
+- Day-neutral varieties (Seascape, Albion) vs everbearing (Quinault) vs June-bearing (Chandler)
+- Container growing vs raised bed growing
+- Heat tolerance and summer survival through heat index >100°F periods
+
+**Key Question:** Can day-neutral strawberries provide viable yields by fruiting spring + fall while surviving July-August humid heat stress?
 
 ## Completed Experiments
 
