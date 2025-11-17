@@ -45,3 +45,4 @@ Temporary Items
 # Environment files
 .env
 .env.local
+token-usage-at-commit
