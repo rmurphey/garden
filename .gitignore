@@ -1,0 +1,47 @@
+# Video files in diary-inbox (temporary staging area)
+# These get moved to diary/photos/ after processing
+diary-inbox/**/*.mp4
+diary-inbox/**/*.mov
+diary-inbox/**/*.m4v
+diary-inbox/**/*.MP4
+diary-inbox/**/*.MOV
+diary-inbox/**/*.M4V
+
+# Large video files in photos (optional - uncomment if you want to exclude processed videos)
+# diary/photos/**/*.mp4
+# diary/photos/**/*.mov
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local

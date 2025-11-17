@@ -1,0 +1,99 @@
+name: Process Garden Diary Videos
+
+# This workflow processes video files into diary entries using Claude AI
+# Triggered manually or when new videos are pushed to diary-inbox/
+
+on:
+  # Manual trigger from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to process (YYYY-MM-DD) or leave empty for latest'
+        required: false
+        type: string
+
+  # Auto-trigger when videos are pushed to diary-inbox
+  push:
+    paths:
+      - 'diary-inbox/**/*.mp4'
+      - 'diary-inbox/**/*.mov'
+      - 'diary-inbox/**/*.m4v'
+      - 'diary-inbox/**/*.MP4'
+      - 'diary-inbox/**/*.MOV'
+
+jobs:
+  process-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full history for git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install anthropic python-dotenv
+
+      - name: Find dates to process
+        id: find-dates
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            echo "dates=${{ github.event.inputs.date }}" >> $GITHUB_OUTPUT
+          else
+            # Find all date folders in diary-inbox with video files
+            dates=$(find diary-inbox -mindepth 1 -maxdepth 1 -type d -exec basename {} \; | sort)
+            echo "dates<<EOF" >> $GITHUB_OUTPUT
+            echo "$dates" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Process diary videos
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          # This is a placeholder - actual processing would use Claude API
+          # For now, create a simple script to process videos
+
+          echo "Would process videos for dates: ${{ steps.find-dates.outputs.dates }}"
+          echo "This requires Claude API integration - see AUTOMATION-SETUP.md"
+
+          # TODO: Implement Python script that:
+          # 1. Reads video files from diary-inbox/DATE/
+          # 2. Calls Claude API with video + audio processing
+          # 3. Fetches weather data
+          # 4. Reads garden strategy file
+          # 5. Generates markdown diary entry
+          # 6. Moves videos to diary/photos/DATE/
+          # 7. Writes diary/DATE.md
+
+      - name: Commit generated entries
+        run: |
+          git config user.name "Garden Diary Bot"
+          git config user.email "bot@garden-diary.local"
+
+          # Check if there are any changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add diary/
+            git commit -m "Add diary entries from video processing
+
+            🤖 Generated with Claude AI
+            Co-Authored-By: Claude <noreply@anthropic.com>"
+
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Create summary
+        run: |
+          echo "## Garden Diary Processing Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Processed videos and generated diary entries." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the \`diary/\` directory for new entries!" >> $GITHUB_STEP_SUMMARY

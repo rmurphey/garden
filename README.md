@@ -49,7 +49,7 @@ This repository contains detailed planning, historical weather data, and AI-powe
 
 ### AI Assistants
 
-Three specialized Claude Code agents in `.claude/agents/`:
+Four specialized Claude Code agents in `.claude/agents/`:
 
 1. **durham-garden-advisor** - Master gardener expertise
    - Plant selection and varieties for Durham
@@ -68,6 +68,35 @@ Three specialized Claude Code agents in `.claude/agents/`:
    - Crop selection and quantities
    - Season-by-season strategies
    - Learning from past experiences
+
+4. **weather-strategy-updater** - Strategy updates
+   - Updates garden strategy based on weather patterns
+   - Adapts plans to climate conditions
+
+### Garden Diary System
+
+**NEW: Video-based diary entries!** Record garden tours on your phone and AI automatically generates detailed diary entries.
+
+**Commands in `.claude/commands/`:**
+
+- `/diary` - Full interactive diary entry (original system)
+- `/quick-note` - Fast note appended to today's entry
+- `/process-diary` - **Process video tours into diary entries**
+  - Transcribes your narration
+  - Analyzes plants, health, problems visually
+  - Reads plant tags and labels
+  - Tracks growth over time
+  - Fetches weather data
+  - Generates structured markdown entry
+
+**Workflow:**
+1. Record 1-5 min video tour of garden on phone (narrate what you see)
+2. Upload to `diary-inbox/YYYY-MM-DD/` folder
+3. Run `/process-diary` in Claude Code
+4. Review generated entry in `diary/YYYY-MM-DD.md`
+
+See **[MOBILE-DIARY-GUIDE.md](MOBILE-DIARY-GUIDE.md)** for complete mobile workflow.
+See **[AUTOMATION-SETUP.md](AUTOMATION-SETUP.md)** for GitHub Actions automation.
 
 ### Configuration
 
