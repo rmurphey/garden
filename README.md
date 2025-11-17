@@ -14,30 +14,29 @@ This repository contains detailed planning, historical weather data, and AI-powe
 
 ### Planning Documents
 
-- **[garden-setup.md](garden-setup.md)** - Complete garden infrastructure details
-  - 3 raised beds (~79 sq ft total)
-  - 10-20 containers (1 cu ft each)
-  - Resources: 9 chickens, composting system, irrigation plans
-  - Past successes and challenges from 2025
-
-- **[2026-garden-strategy.md](2026-garden-strategy.md)** - Comprehensive growing plan
-  - Month-by-month planting calendar (Feb-Nov 2026)
-  - 20+ heat-tolerant varieties for Durham climate
-  - Succession planting schedules
-  - Bed layouts and companion planting
-  - Disease prevention strategies
-  - Expected yields: 600-900 lbs tomatoes, 400-800 cucumbers, etc.
-
-- **[2026-shopping-list.md](2026-shopping-list.md)** - Complete supply list
-  - Seeds from Southern Exposure, Baker Creek, Johnny's
-  - Irrigation supplies (WiFi smart timer, soaker hoses)
-  - Soil amendments (bulk compost delivery)
-  - Local Durham suppliers (Lowe's, Barnes Supply, Triangle Mulch)
-  - Budget: ~$500-600
+- **[planning/](planning/)** - Strategic planning organized by year
+  - **[garden-setup.md](planning/garden-setup.md)** - Infrastructure and physical layout
+    - 3 raised beds (~79 sq ft total)
+    - 10-20 containers (1 cu ft each)
+    - Resources: 9 chickens, composting system, irrigation plans
+    - Past successes and challenges from 2025
+  - **[2026/strategy.md](planning/2026/strategy.md)** - 2026 comprehensive growing plan
+    - Month-by-month planting calendar (Feb-Nov 2026)
+    - 20+ heat-tolerant varieties for Durham climate
+    - Succession planting schedules
+    - Bed layouts and companion planting
+    - Disease prevention strategies
+    - Expected yields: 600-900 lbs tomatoes, 400-800 cucumbers, etc.
+  - **[2026/shopping-list.md](planning/2026/shopping-list.md)** - Complete supply list
+    - Seeds from Southern Exposure, Baker Creek, Johnny's
+    - Irrigation supplies (WiFi smart timer, soaker hoses)
+    - Soil amendments (bulk compost delivery)
+    - Local Durham suppliers (Lowe's, Barnes Supply, Triangle Mulch)
+    - Budget: ~$500-600
 
 ### Climate Data
 
-- **[durham-historical-weather.md](durham-historical-weather.md)** - Historical weather reference
+- **[reference/durham-weather.md](reference/durham-weather.md)** - Historical weather reference
   - 30-year climate normals (1991-2020) baseline
   - Recent detailed data (2020-2025)
   - Climate change trend analysis
@@ -95,8 +94,8 @@ Four specialized Claude Code agents in `.claude/agents/`:
 3. Run `/process-diary` in Claude Code
 4. Review generated entry in `diary/YYYY-MM-DD.md`
 
-See **[MOBILE-DIARY-GUIDE.md](MOBILE-DIARY-GUIDE.md)** for complete mobile workflow.
-See **[AUTOMATION-SETUP.md](AUTOMATION-SETUP.md)** for GitHub Actions automation.
+See **[docs/diary-system.md](docs/diary-system.md)** for complete guide including recording tips, automation setup, and examples.
+See **[docs/mobile-guide.md](docs/mobile-guide.md)** for quick mobile reference.
 
 ### Configuration
 
@@ -125,7 +124,7 @@ See **[AUTOMATION-SETUP.md](AUTOMATION-SETUP.md)** for GitHub Actions automation
 
 4. **Mid-April 2026**
    - Major transplant week (after last frost ~April 10)
-   - Follow detailed calendar in 2026-garden-strategy.md
+   - Follow detailed calendar in planning/2026/strategy.md
 
 ## Key Features
 
